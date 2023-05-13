@@ -1,0 +1,40 @@
+.wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+  max-width: 150px;
+  height: auto;
+  display: block;
+  float: left;
+  margin-right: 20px;
+}
+
+p {
+  text-align: justify;
+  margin-top: 20px;
+}
+
+dl {
+  margin-top: 20px;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 0;
+}
+
+:root {
+  font-size: 16px;
+}
+
+dl dt {
+  font-size: 1.15rem;
+}
+
